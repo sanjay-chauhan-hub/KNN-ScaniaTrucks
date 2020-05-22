@@ -14,21 +14,3 @@ Task 2: Apply KNN on the data find the best k with 3-fold cross-validation and p
 ## How to Run:
 1. First download the dataset from the source then run the file: "1-KNN_ScaniaTrucks_CreatingDatasets.ipynb" and create CSV file from raw data.
 2. Then run the file: "2-KNN_ScaniaTrucks.ipynb".
-## Prerequisites
-You need to have installed following softwares and libraries in your machine before running this project.
-1. Python 3
-2. Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy, scipy.
-
-## Installing
-1. Python 3: https://www.python.org/downloads/
-2. Anaconda: https://www.anaconda.com/download/
-
-## Built With
-*	ipython-notebook - Python Text Editor
-*	sklearn - Machine learning library
-*	seaborn, matplotlib.pyplot, - Visualization libraries
-*	numpy, scipy- number python library
-*	pandas - data handling library
-
-## Authors
-*	Gaurav Sharma - Complete work
